@@ -7,7 +7,7 @@ Jr. Front End Developer
 I am a junior Front-End Developer with a background in law and journalism. With the desire to develop and deepen my knowledge on web development, I applied to the Web Development Bootcamp organized by Ironhack and was accepted. I improve my JavaScript proficiency during Bootcamp and learned how to develop single page applications with React.js and how to use different APIs and packages. Apart from these I became familiar with Node.js, Express.js and MongoDB. I am constantly expanding my skill set. My current areas of study include React and I'm always looking to grow my personal and professional network.
 
 * 🌍  I'm based in Munich
-* ✉️  You can contact me at [ececmk@gmail.com](mailto: ececmk@gmail.com)
+* ✉️  You can contact me at [ececmk@gmail.com]
 * 🧠  I'm learning React and React Native
 * 🤝  I'm open to collaborating on interesting MERN projects
 
