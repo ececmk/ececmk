@@ -8,7 +8,7 @@ I am a junior Front-End Developer with a background in law and journalism. With 
 
 * 🌍  I'm based in Munich
 * ✉️  You can contact me at [ececmk@gmail.com]
-* 🧠  I'm learning React and React Native
+* 🧠  I'm learning React and TypeScript
 * 🤝  I'm open to collaborating on interesting MERN projects
 
 ### Skills
