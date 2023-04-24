@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Jr. Front End Developer
 -----------------------
 
-I am a junior Front-End Developer with a background in law and journalism. With the desire to develop and deepen my knowledge on web development, I applied to the Web Development Bootcamp organized by Ironhack and was accepted. I improve my JavaScript proficiency during Bootcamp and learned how to develop single page applications with React.js and how to use different APIs and packages. Apart from these I became familiar with Node.js, Express.js and MongoDB. I am constantly expanding my skill set. My current areas of study include React and I'm always looking to grow my personal and professional network.
+As a junior frontend developer with a background in law and journalism, I bring a unique perspective and skill set to the world of web development. I am passionate about creating visually appealing and user-friendly websites and applications that solve real-world problems and enhance the user experience.
+
+As a lifelong learner, I am constantly seeking new challenges and opportunities to improve my skills and knowledge. I am currently seeking opportunities to apply my frontend development skills to meaningful and rewarding projects.
 
 * 🌍  I'm based in Munich
 * ✉️  You can contact me at [ececmk@gmail.com]
