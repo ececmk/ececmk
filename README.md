@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ece Cakmak
 ==================================================================================================================================
 
-Jr. Front End Developer
+Front End Developer
 -----------------------
 
 As a junior frontend developer with a background in law and journalism, I bring a unique perspective and skill set to the world of web development. I am passionate about creating visually appealing and user-friendly websites and applications that solve real-world problems and enhance the user experience.
