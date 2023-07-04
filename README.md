@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -----------------------
 
-As a junior frontend developer with a background in law and journalism, I bring a unique perspective and skill set to the world of web development. I am passionate about creating visually appealing and user-friendly websites and applications that solve real-world problems and enhance the user experience.
+As a frontend developer with a background in law and journalism, I bring a unique perspective and skill set to the world of web development. I am passionate about creating visually appealing and user-friendly websites and applications that solve real-world problems and enhance the user experience.
 
 As a lifelong learner, I am constantly seeking new challenges and opportunities to improve my skills and knowledge. I am currently seeking opportunities to apply my frontend development skills to meaningful and rewarding projects.
 
